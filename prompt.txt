@@ -1,0 +1,22 @@
+in doctor appointments, precsription, medical history, lab results have no connectionn so page is not loaded in the website
+
+in appointments view details is not working and also in this website prescreption lab results mediacl history
+
+in admin panel the appointments page css is broken and not come properlyyy
+
+here admin can edit patient name n all so put here one edit button and also button change to view put two buttons view and edit only 
+in patients
+
+in doctor and staff also change to written button side by side in the admin page
+
+still not come properly set css properly or second option remove this sidebar from appointment page or msg 
+come that appointment page then main page come
+
+just staff can see whole doctor or patient only from see all timimgs or information or patients information staff can see easily make a best 
+page ever and look like wow css
+
+create a proper doctor page to all pages and attractive designs and also give me manually login entry not already exitence 
+entries
+
+create a admi page where admin can register doctor and staff and also all information of patient is there also connected to the backend 
+database 
