@@ -1,6 +1,8 @@
+<img width="1920" height="1080" alt="Screenshot (536)" src="https://github.com/user-attachments/assets/40cb57f6-0ecf-4650-b885-09d54cf4284a" />
 # 🏥 Hospital Management System
 
-A full-stack Hospital Management System developed using Laravel and MySQL, featuring patient management, doctor scheduling, appointment booking, and secure authentication.
+A full-stack Hospital Management System developed using Laravel and MySQL, featuring patient management, doctor scheduling, appointment booking, and secure authentication
+
 
 ## 📋 Features
 
@@ -111,6 +113,11 @@ npm run dev
 11. **Access the application**
 
 Open your browser and visit: `http://localhost:8000`
+
+12. **Admin password**
+
+username: admin@hms.local 
+password : Admin@123
 
 ## 🚀 Quick Start (For Beginners)
 
